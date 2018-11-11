@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wasiq.manzoor_Saa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wasiq.manzoor_Saa\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

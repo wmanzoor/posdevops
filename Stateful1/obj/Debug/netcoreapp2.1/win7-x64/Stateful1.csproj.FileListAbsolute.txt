@@ -1,0 +1,14 @@
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.csproj.CoreCompileInputs.cache
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.AssemblyInfoInputs.cache
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.AssemblyInfo.cs
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.exe
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.deps.json
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.runtimeconfig.json
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.runtimeconfig.dev.json
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.dll
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\bin\Debug\netcoreapp2.1\win7-x64\Stateful1.pdb
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.csprojAssemblyReference.cache
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.dll
+C:\Users\wasiq.manzoor_Saa\source\repos\POCDevops\Stateful1\obj\Debug\netcoreapp2.1\win7-x64\Stateful1.pdb
